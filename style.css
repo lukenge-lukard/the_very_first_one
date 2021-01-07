@@ -1,0 +1,78 @@
+.top-row{
+    align-content: center;
+    text-align: center;
+}
+#hr1{
+    border: 3px solid orange;
+    width: 500px;
+}
+.col-left{
+    width: 50%;
+    height: 300px;
+    float: left;
+}
+.col-right{
+    width: 50%;
+    height: 300px;
+    float: right;
+}
+#hr2{
+    border: 3px solid blue;
+    margin-left: 5px;
+    margin-right: 550px;
+}
+button{
+    background: green;
+    border: 3px solid orange;
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+}
+button :hover{
+    background: orange;
+    border: 1px solid green;
+    color:#000;
+}
+img{
+    width: 550px;
+    height: 250px;
+    margin-top: 30px;
+}
+footer{
+    display: flex;
+    margin-top: 360px;
+    color: #fff;
+    background-color: green;
+}
+footer span{
+    color: red;
+}
+.one{
+    width: 25%;
+}
+.two{
+    width: 25%;
+}
+.three{
+    width: 25%;
+}
+.four{
+    width: 25%;
+}
+.two button{
+    background: white;
+    color: black;
+    padding: 2px;
+}
+.i-four span{
+    border-radius: 20px;
+    width: 20px;
+    height: 20px;
+    border: 2px solid orange;
+    color: white;
+    background-color: black;
+    
+}
+#button-2{
+    padding: 20px;
+}
